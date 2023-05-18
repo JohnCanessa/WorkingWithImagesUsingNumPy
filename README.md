@@ -8,7 +8,7 @@ by Janani Ravi.
 If interested in my comments I invite you to read the associated
 pot in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/05/16/working-with-images-using-numpy/
 
 Keep in mind that one of the best ways to learn is to read, 
 experiment, and repeat.
